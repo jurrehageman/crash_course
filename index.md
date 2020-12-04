@@ -1,6 +1,6 @@
 ![Hanze](./hanze/hanze.png)
 
-# Crash course basic laboratory skills
+# Laboratory courses
 
 ## Main Page
 ---
@@ -8,14 +8,14 @@
 ![Pic](./impression/impression.jpg)
 
 ## Courses
-- [Short Crash Course](./short/short.html)
-- [VMT](./vmt/vmt.html)
-- [Nucleic acid isolation](./nucleic_acid_isolation/nucleic_acid_isolation.html)
-- [PCR](./pcr/pcr.html)
-- [ELISA](./elisa/elisa.html)
-- [Western Blot](./western_blot/western_blot.html)
-- [Cloning](./cloning/cloning.html)
-- [CRISPR-Cas9](./crispr/crispr.html)
+- [Crash Course](./short/short.html) (3 days of 6 hours each)
+- [VMT](./vmt/vmt.html) (1 day of 6 hours)
+- [Nucleic acid isolation](./nucleic_acid_isolation/nucleic_acid_isolation.html) (1 day of 6 hours)
+- [PCR](./pcr/pcr.html) (2 days of 6 hours each)
+- [ELISA](./elisa/elisa.html) (1 day of 6 hours)
+- [Western Blot](./western_blot/western_blot.html) (2 days of 6 hours each)
+- [Cloning](./cloning/cloning.html) (3 days of 6 hours each)
+- [CRISPR-Cas9](./crispr/crispr.html) (9 days of 6 hours each)
 
 --- 
 

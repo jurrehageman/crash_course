@@ -2,7 +2,7 @@
 
 [Back to the main page of the crash course](../index.html)
 
-# Short course basic laboratory skills
+# Crash course basic laboratory skills
 
 ---
 
@@ -10,15 +10,16 @@
 
 ## Introduction
 The following items will be clickable links with short web pages or short instruction movies covering the following subjects:
-- Safety in the laboratory
-- Labjournal (eLabjournal)
+- [Safety in the laboratory](./safety/safety.html)
+- [Labjournal general information](./labjournal/labjournal.pdf)
+- [Labjournal (eLabjournal)](https://www.elabjournal.com/doc/QuickStartGuide.html)
 - [Lab Equipment](./lab_equipment.html)
 - [Basics of Chemical calculations](./chemical_calculations.html)
-- Weighing chemicals
-- Pipetting liquids
-- Buffers and measuring pH
+- [Weighing chemicals](https://www.youtube.com/watch?v=kNUdYdwQ-2Q)
+- [Measuring pH](https://www.youtube.com/watch?v=gtcCLldrcg4)
+- [Pipetting liquids](https://nl.gilson.com/pub/static/frontend/Gilson/customtheme/en_US/images/docs/2019_Guide_to_Pipetting_LT800550-F_compressed.pdf)
 - Measuring OD values
-- Handling a microscope
+- [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
 - Processing lab data using a spreadsheet
 
 ---
