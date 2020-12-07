@@ -18,9 +18,11 @@ The following items will be clickable links with short web pages or short instru
 - [Weighing chemicals](https://www.youtube.com/watch?v=kNUdYdwQ-2Q)
 - [Measuring pH](https://www.youtube.com/watch?v=gtcCLldrcg4)
 - [Pipetting liquids](https://nl.gilson.com/pub/static/frontend/Gilson/customtheme/en_US/images/docs/2019_Guide_to_Pipetting_LT800550-F_compressed.pdf)
-- Measuring OD values
+- [Measuring OD values](https://www.youtube.com/watch?v=xHQM4BbR040)
+- [Measuring growth of bacteria](https://www.youtube.com/watch?v=_5_tlot3rvs)
 - [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
-- Processing lab data using a spreadsheet
+- [Linear Regression Excel](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
+- [Polynomial Quadratic Regression](https://www.youtube.com/watch?v=kXezPdlO-G8)
 
 ---
 

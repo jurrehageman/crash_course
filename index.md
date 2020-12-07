@@ -9,7 +9,7 @@
 
 ## Courses
 - [Crash Course](./short/short.html) (3 days of 6 hours each)
-- [VMT](./vmt/vmt.html) (1 day of 6 hours)
+- [VMT](./vmt/vmt.html) (3 days of 6 hours each)
 - [Nucleic acid isolation](./nucleic_acid_isolation/nucleic_acid_isolation.html) (1 day of 6 hours)
 - [PCR](./pcr/pcr.html) (2 days of 6 hours each)
 - [ELISA](./elisa/elisa.html) (1 day of 6 hours)
