@@ -9,12 +9,13 @@
 - Apply the Henderson-Hasselbalch equation
 - Measuring pH
 - Culturing bacteria using aseptic techniques
+- Performing basic optical denisty (OD) measurements
 - Calculating the generation time of bacteria
 
 ## Introduction and principle
-A buffer solution is a solution consisting of a a weak acid and its conjugate base. Buffers are used in laboratoria to keep the pH stable. The pH of a buffered solution changes very little when a small amount of acid or base is added. Organisms also make extensive use of buffers. For example, blood contains a carbonic acid ($H_2CO_3$) bicarbonate ($HCO_3^-$) buffer system. 
+A buffer solution is a solution consisting of a weak acid and its conjugate base. Buffers are used in laboratory to keep the pH stable. The pH of a buffered solution changes very little when a small amount of acid or base is added. Organisms also make extensive use of buffers. For example, blood contains a carbonic acid ($H_2CO_3$) bicarbonate ($HCO_3^-$) buffer system. 
 
-Recall from highschool that the pH is defined as the negative log of the concentration of hydrogen atoms:
+Recall from High School that the pH is defined as the negative log of the concentration of hydrogen atoms:
 
 $pH = -\log(H^+)$
 
@@ -22,7 +23,7 @@ As mentioned above, a buffer consists of a weak acid and a conjugate base:
 
 $HA (weak\ acid) \leftrightarrow H^+ (proton) + A^- (conjugate\ base)$
 
-The ionisation of the weak acid results in the release of a proton and the conjugate base. The reversible reaction is dependent on a equilibrium constant, $K_a$, known as the **acid dissociation constant**.
+The ionisation of the weak acid results in the release of a proton and the conjugate base. The reversible reaction is dependent on an equilibrium constant, $K_a$, known as the **acid dissociation constant**.
 
 $K_a = \frac{[H^+] \cdot [A^-]}{[HA]}$
 
@@ -61,23 +62,22 @@ $2.51 = \left (\frac{[A^-]}{[HA]} \right)$
 So if we prepare 0.1 mol/L $Na_2HPO_4$ and 0.1 mol/l $NaH_2PO_4$ we need ~ 2.5 times more $Na_2HPO_4$ compared to $NaH_2PO_4$.
 
 ## Buffer preparation
-Note: start with the experiment below (Effect of pH on *E. coli* growth). You can work on this experiment in the meantime.
-- Prepare 1L of 1 mol/L $NaH_2PO_4$ and $Na_2HPO_4$ solutions.
-- Using this solution prepare 3 seperate phosphate buffer (0.5 L) solutions (100 ml) of 100 mM  of pH 5.5, 7 and 8. Use the Henderson–Hasselbalch equation to calculate the correct ratio of acid and base.
-- callibrate a pH meter. See instructions of the supplier.
+Note: You start with the experiment below (Effect of pH on *E. coli* growth), for which solutions will be supplied. During that experiment, you will be preparing and measuring the buffers.
+- Various pH's will be prepared from 1 mol/L $NaH_2PO_4$ and 1 mol/L $Na_2HPO_4$ solutions.
+- Using these solutions, you prepare 3 separate phosphate buffer solutions. Final volume = 100 ml; final concentration is 100 mM. The pH's are set at pH 5.5, 7 and 8. Use the Henderson–Hasselbalch equation to calculate the correct ratio of acid and base.
+- Calibrate a pH meter. See instructions of the supplier.
 - Measure the pH of your solutions.
 
 ## Effect of pH on *E. coli* growth
 This experiment will be started directly.
-You will receive the same buffers as that you prepared yourself (but these are sterile). There is 100 ml in 250 ml infusion flasks. In addition, you will receive 2 times concentrated groth medium (sterile, in 100 ml infusion flasks). This medium contains 2% trypton, 2% sodium chloride and 1% yeast extract. 
-- Mix the growth medium 1 to 1 with your buffer solution. What will be the strength of your buffer in the medium?
+You will receive the same buffers as that you prepared yourself (but these are sterile). There is 100 ml in 250 ml infusion flasks. In addition, you will receive 2 times concentrated growth medium (sterile, in 100 ml infusion flasks). This medium contains 2% trypton, 2% sodium chloride and 1% yeast extract. 
 - Take 3 sterile 50 ml Greiner tubes (each for a pH) and label. 
-- Add 25 mL of medium with the corresponding pH values to the corresponding tubes. 
-- Prewarm the tubes at 37 °C in a shaker (220 rpm) for 15 minutes.
-- You will receive a preculture of *E. coli* from your supervisor. Measure the optical density at 600 nm by mixing 0.1 ml of the preculture with 0.9 ml blanco medium in a cuvet. Mix using a 1 ml pipet. 
-- Calculate how much of the preculture should be added to the medium to reach a OD600 of 0.15.
+- Mix the growth medium 1 to 1 with your buffer solution. Final volume in the Greiner tubes = 25 ml. What will be the strength of your buffer in the medium?
+- Pre-warm the tubes at 37°C in a shaker (220 rpm) for 15 minutes.
+- You will receive a pre-culture of *E. coli* from your supervisor. Measure the optical density at 600 nm by mixing 0.1 ml of the preculture with 0.9 ml blank medium in a cuvette. Mix using a 1 ml pipet. 
+- Calculate how much of the pre-culture should be added to the medium to reach a OD600 of 0.15.
 - Add the correct amount of bacteria to each tube and mix using a vortex.
-- Incubate the tubes at 37 °C in a shaker (220 rpm).
+- Incubate the tubes at 37°C in a shaker (220 rpm).
 - Take a sample of 1 mL each 30 minutes for each pH and measure the OD600.
 
 ## Processing lab data using a spreadsheet
